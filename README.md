@@ -7,8 +7,6 @@ Anggota:
 - Marsianus 12210843
 - Ricky Febri P 12210831
  
- Link Projek LRS:
- https://www.figma.com/file/yaxqMVZSu6kMkx5GShuRqb/Untitled?node-id=0-1&t=UGW3fAchrELwyaEe-0
 
 ## Getting Started
 
